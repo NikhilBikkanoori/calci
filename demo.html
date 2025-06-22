@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <script src="demo.js"></script>
+        <div class="calci">
+                <div id="ZerO" >
+                        <input id='zero' readonly>
+                </div>
+            <br>
+            <div class="first">
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('7')">7</button>
+                &nbsp;&nbsp;
+                <button  onclick="appendToDisplay('8')">8</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('9')">9</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('+')">+</button>
+            </div>
+            <br>
+            <div class="second">
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('4')">4</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('5')">5</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('6')">6</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('-')">-</button>
+            </div>
+            <br>
+            <div class="third">
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('1')">1</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('2')">2</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('3')">3</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('*')">*</button>
+            </div>
+            <br>
+            <div class="four">
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('0')">0</button>
+                &nbsp;&nbsp;
+                <button onclick="calculate()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</button>
+                &nbsp;&nbsp;
+                <button onclick="appendToDisplay('/')">/</button>
+            </div>
+        </div>
+        
+</body>
+</html>
