@@ -1,4 +1,4 @@
-🧮 Calculator
+<h1>🧮 Calculator</h1>
 A simple calculator built with HTML, CSS, and JavaScript.
 
 ✨ Features
