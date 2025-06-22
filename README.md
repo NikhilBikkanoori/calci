@@ -4,6 +4,7 @@
 <h1>✨ Features</h1>
 Basic operations: + − × ÷
 
+
 Clean, responsive UI
 
 Easy to use
