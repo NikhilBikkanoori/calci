@@ -17,4 +17,6 @@ style.css – Styling
 demo.js – Logic
 
 Picture:
+
+
 ![calci](https://github.com/user-attachments/assets/dbb10c96-0823-4cef-ba9b-f9c6284f30c9)
