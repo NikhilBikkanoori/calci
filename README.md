@@ -9,6 +9,7 @@ Clean, responsive UI
 Easy to use
 
 🛠️ Files
+
 demo.html – Structure
 
 style.css – Styling
