@@ -2,8 +2,8 @@
 <h3>A simple calculator built with HTML, CSS, and JavaScript.</h3>
 
 <h1>✨ Features</h1>
-Basic operations: + − × ÷
 
+Basic operations: + − × ÷
 
 Clean, responsive UI
 
