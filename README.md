@@ -1,7 +1,7 @@
 <h1>🧮 Calculator</h1>
 A simple calculator built with HTML, CSS, and JavaScript.
 
-✨ Features
+#✨ Features
 Basic operations: + − × ÷
 
 Clean, responsive UI
